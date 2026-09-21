@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700">
+      <defs>
+        <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+          <stop offset="0" stop-color="#222222"/><stop offset="1" stop-color="#090909"/>
+        </linearGradient>
+      </defs>
+      <rect width="1200" height="700" fill="url(#g)"/>
+      <path d="M0 560 L1200 120 M0 650 L1200 210" stroke="#ffffff" opacity=".07" stroke-width="3"/>
+      <circle cx="960" cy="150" r="180" fill="none" stroke="#fff" opacity=".06" stroke-width="2"/>
+      <text x="70" y="285" fill="#fff" opacity=".9" font-family="Arial, sans-serif" font-size="72" font-weight="700">OPEN</text>
+      <text x="70" y="365" fill="#fff" opacity=".65" font-family="Arial, sans-serif" font-size="54">CV</text>
+      <text x="70" y="610" fill="#fff" opacity=".45" font-family="Arial, sans-serif" font-size="22" letter-spacing="5">ROMIT SARDAR / PROJECT</text>
+    </svg>
